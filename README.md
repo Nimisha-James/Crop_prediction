@@ -33,6 +33,6 @@ This repository contains a project that uses a Swin Transformer model to classif
 ### Setting Up the Environment
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/soil-image-classification-crop-prediction.git
-   cd soil-image-classification-crop-prediction
+   git clone https://github.com/Nimisha-James/Crop_prediction
+  
 
