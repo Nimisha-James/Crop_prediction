@@ -20,19 +20,11 @@ This repository contains a project that uses a Swin Transformer model to classif
    - The extracted features, along with additional numerical data (e.g., soil pH, moisture content, etc.), are used to predict the most suitable crop for the detected soil type.
    - This is done using a secondary model trained on agricultural data to ensure the most accurate crop recommendations.
 
-## Installation
 
-### Prerequisites
-- Python 3.x
-- PyTorch
-- PyWavelets
-- scikit-learn
-- NumPy
-- OpenCV
-
-### Setting Up the Environment
-1. **Clone the Repository**
+### **Clone the Repository**
    ```bash
    git clone https://github.com/Nimisha-James/Crop_prediction
    cd Crop_prediction
+   pip install -r requirements.txt
+
    
