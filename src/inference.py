@@ -9,6 +9,7 @@ import argparse
 import pathlib
 
 from model import build_model
+from feature import process_soil_image  # Import the processing function
 
 # Construct the argument parser.
 parser = argparse.ArgumentParser()
@@ -22,7 +23,7 @@ args = vars(parser.parse_args())
 # Constants and other configurations.
 DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 IMAGE_RESIZE = 224
-CLASS_NAMES = ['Alluvial Soil','Black Soil','Clay Soil','Red Soil']
+CLASS_NAMES = ['Alluvial Soil', 'Black Soil', 'Clay Soil', 'Red Soil']
 
 # Validation transforms
 def get_test_transform(image_size):
@@ -33,7 +34,7 @@ def get_test_transform(image_size):
         transforms.Normalize(
             mean=[0.485, 0.456, 0.406],
             std=[0.229, 0.224, 0.225]
-            )
+        )
     ])
     return test_transform
 
@@ -49,32 +50,30 @@ def annotate_image(output_class, orig_image):
         3, 
         lineType=cv2.LINE_AA
     )
+    cv2.imshow('Image', orig_image)
+    cv2.waitKey(5)
     return orig_image
 
 def inference(model, testloader, device, orig_image):
-    """
-    Function to run inference.
-
-    :param model: The trained model.
-    :param testloader: The test data loader.
-    :param DEVICE: The computation device.
-    """
     model.eval()
-    counter = 0
     with torch.no_grad():
-        counter += 1
-        image = testloader
-        image = image.to(device)
+        image = testloader.to(device)
 
         # Forward pass.
         outputs = model(image)
-    # Softmax probabilities.
-    predictions = F.softmax(outputs, dim=1).cpu().numpy()
-    # Predicted class number.
-    output_class = np.argmax(predictions)
-    # Show and save the results.
-    result = annotate_image(output_class, orig_image)
-    return result
+        predictions = F.softmax(outputs, dim=1).cpu().numpy()
+        output_class = np.argmax(predictions)
+
+        # Annotate the original image with the soil type
+        result = annotate_image(output_class, orig_image)
+
+        # Convert the image to grayscale
+        gray_image = cv2.cvtColor(orig_image, cv2.COLOR_BGR2GRAY)
+
+        # Call the processing function with the grayscale image array and soil type
+        process_soil_image(gray_image, CLASS_NAMES[int(output_class)])
+
+        return result
 
 if __name__ == '__main__':
     weights_path = pathlib.Path(args['weights'])
@@ -84,7 +83,6 @@ if __name__ == '__main__':
     os.makedirs(infer_result_path, exist_ok=True)
 
     checkpoint = torch.load(weights_path)
-    # Load the model.
     model = build_model(
         fine_tune=False, 
         num_classes=len(CLASS_NAMES)
@@ -108,13 +106,13 @@ if __name__ == '__main__':
             DEVICE,
             orig_image
         )
+        
+        
         # Save the image to disk.
-        image_name = image_path.split(os.path.sep)[-1]
-        cv2.imshow('Image', result)
-        cv2.waitKey(1)
         image_name = image_path.split(os.path.sep)[-1]
         if not image_name.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp')):
             image_name += '.jpg'  # Add a default extension
         cv2.imwrite(
             os.path.join(infer_result_path, image_name), result
         )
+    print("Inference completed for all images.")
