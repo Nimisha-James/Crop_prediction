@@ -1,4 +1,4 @@
-# Soil Image Classification and Crop Prediction
+# Crop Prediction using Soil Imaging
 
 This repository contains a project that uses a Swin Transformer model to classify soil images into four types: **Alluvial**, **Black**, **Red**, and **Clay**. After classifying the soil type, the model further extracts texture and other features to predict the most suitable crop for that soil type using numerical data.
 
@@ -34,5 +34,5 @@ This repository contains a project that uses a Swin Transformer model to classif
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Nimisha-James/Crop_prediction
-  
-
+   cd Crop_prediction
+   
