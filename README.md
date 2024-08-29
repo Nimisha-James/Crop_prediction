@@ -26,5 +26,3 @@ This repository contains a project that uses a Swin Transformer model to classif
    git clone https://github.com/Nimisha-James/Crop_prediction
    cd Crop_prediction
    pip install -r requirements.txt
-
-   
