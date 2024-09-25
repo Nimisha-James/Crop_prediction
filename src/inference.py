@@ -7,20 +7,10 @@ import torchvision.transforms as transforms
 import glob
 import argparse
 import pathlib
-
 from model import build_model
-from feature import process_soil_image  # Import the processing function
+from feature import extract_all_features  # Import the function from features.py
 
-# Construct the argument parser.
-parser = argparse.ArgumentParser()
-parser.add_argument(
-    '-w', '--weights', 
-    default='../outputs/best_model.pth',
-    help='path to the model weights',
-)
-args = vars(parser.parse_args())
-
-# Constants and other configurations.
+# Constants and other configurations
 DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 IMAGE_RESIZE = 224
 CLASS_NAMES = ['Alluvial Soil', 'Black Soil', 'Clay Soil', 'Red Soil']
@@ -38,6 +28,7 @@ def get_test_transform(image_size):
     ])
     return test_transform
 
+# Annotate image with predicted soil type
 def annotate_image(output_class, orig_image):
     class_name = CLASS_NAMES[int(output_class)]
     cv2.putText(
@@ -50,36 +41,47 @@ def annotate_image(output_class, orig_image):
         3, 
         lineType=cv2.LINE_AA
     )
-    cv2.imshow('Image', orig_image)
-    cv2.waitKey(5)
     return orig_image
 
-def inference(model, testloader, device, orig_image):
+# Inference and Feature Extraction function
+def inference_and_extract_features(model, testloader, device, orig_image):
     model.eval()
     with torch.no_grad():
         image = testloader.to(device)
 
-        # Forward pass.
+        # Forward pass
         outputs = model(image)
         predictions = F.softmax(outputs, dim=1).cpu().numpy()
         output_class = np.argmax(predictions)
 
-        # Annotate the original image with the soil type
-        result = annotate_image(output_class, orig_image)
-
-        # Convert the image to grayscale
+        # Convert the image to grayscale for feature extraction
         gray_image = cv2.cvtColor(orig_image, cv2.COLOR_BGR2GRAY)
 
-        # Call the processing function with the grayscale image array and soil type
-        process_soil_image(gray_image, CLASS_NAMES[int(output_class)])
+        # Extract features from grayscale image
+        extracted_features = extract_all_features(gray_image)
+        
+        # Print the soil type and features
+        print(f"Soil Type: {CLASS_NAMES[int(output_class)]}")
+        print("Extracted Features:")
+        for feature_name, value in extracted_features.items():
+            print(f"  {feature_name}: {value}")
+
+        # Annotate the original image with the soil type
+        result = annotate_image(output_class, orig_image)
 
         return result
 
 if __name__ == '__main__':
-    weights_path = pathlib.Path(args['weights'])
-    infer_result_path = os.path.join(
-        '..', 'outputs', 'inference_results'
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        '-w', '--weights', 
+        default='../outputs/best_model.pth',
+        help='path to the model weights',
     )
+    args = vars(parser.parse_args())
+    
+    weights_path = pathlib.Path(args['weights'])
+    infer_result_path = os.path.join('..', 'outputs', 'inference_results')
     os.makedirs(infer_result_path, exist_ok=True)
 
     checkpoint = torch.load(weights_path)
@@ -94,25 +96,24 @@ if __name__ == '__main__':
     transform = get_test_transform(IMAGE_RESIZE)
 
     for i, image_path in enumerate(all_image_paths):
-        print(f"Inference on image: {i+1}")
+        print(f"\nInference on image: {i+1}\n")
         image = cv2.imread(image_path)
         orig_image = image.copy()
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         image = transform(image)
         image = torch.unsqueeze(image, 0)
-        result = inference(
+        result = inference_and_extract_features(
             model, 
             image,
             DEVICE,
             orig_image
         )
         
-        
-        # Save the image to disk.
+        # Save the image to disk
         image_name = image_path.split(os.path.sep)[-1]
         if not image_name.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp')):
             image_name += '.jpg'  # Add a default extension
         cv2.imwrite(
             os.path.join(infer_result_path, image_name), result
         )
-    print("Inference completed for all images.")
+    print("\n")

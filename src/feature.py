@@ -1,57 +1,87 @@
-import matplotlib.pyplot as plt
 import numpy as np
-import pywt
-from PIL import Image
-import os
 from skimage.feature import graycomatrix, graycoprops
 from skimage.measure import shannon_entropy
-from skimage.filters import threshold_otsu
-from skimage.morphology import closing, square
-from skimage.measure import label, regionprops
+import pywt
+import cv2
 
-def process_soil_image(image_array, soil_type):
-    # Wavelet transform of the image, and plot approximation and details
-    titles = ['Approximation', 'Horizontal detail', 'Vertical detail', 'Diagonal detail']
-    coeffs2 = pywt.dwt2(image_array, 'bior1.3')
-    LL, (LH, HL, HH) = coeffs2
-
-    fig, axes = plt.subplots(1, 4, figsize=(12, 3))
-    for i, (ax, a) in enumerate(zip(axes, [LL, LH, HL, HH])):
-        ax.imshow(a, interpolation="nearest", cmap=plt.cm.gray)
-        ax.set_title(titles[i], fontsize=10)
-        ax.set_xticks([])
-        ax.set_yticks([])
-
-    fig.tight_layout()
-    plt.suptitle(f"{soil_type}", fontsize=12)
-    plt.show(block=False)
-    plt.pause(5)  # Display for 1 second
-    plt.close()
-
-    # Extract features based on soil type
-    print(f"Soil Type: {soil_type}")
-    if soil_type == "Alluvial Soil":
-        grain_size_distribution = np.mean([region.equivalent_diameter for region in regionprops(label(closing(image_array > threshold_otsu(image_array), square(3))))])
-        moisture_content = shannon_entropy(image_array)
-        print(f"Grain Size Distribution: {grain_size_distribution:.2f} pixels")
-        print(f"Moisture Content: {moisture_content:.2f}")
-        
-    elif soil_type == "Black Soil":
-        contrast = graycoprops(graycomatrix(image_array, distances=[1], angles=[0], levels=256, symmetric=True, normed=True), 'contrast')[0, 0]
-        cracking_patterns = np.mean([region.equivalent_diameter for region in regionprops(label(closing(image_array > threshold_otsu(image_array), square(3))))])
-        print(f"Color Contrast: {contrast:.2f}")
-        print(f"Cracking Patterns: {cracking_patterns:.2f} pixels")
-        
-    elif soil_type == "Clay Soil":
-        texture = graycoprops(graycomatrix(image_array, distances=[1], angles=[0], levels=256, symmetric=True, normed=True), 'homogeneity')[0, 0]
-        porosity = shannon_entropy(image_array)
-        print(f"Texture: {texture:.2f}")
-        print(f"Porosity: {porosity:.2f}")
-        
-    elif soil_type == "Red Soil":
-        color_intensity = graycoprops(graycomatrix(image_array, distances=[1], angles=[0], levels=256, symmetric=True, normed=True), 'energy')[0, 0]
-        grain_size = np.mean([region.equivalent_diameter for region in regionprops(label(closing(image_array > threshold_otsu(image_array), square(3))))])
-        print(f"Color Intensity: {color_intensity:.2f}")
-        print(f"Grain Size: {grain_size:.2f} pixels")
+# GLCM Contrast Feature Extraction
+def extract_glcm_features(image):
+    # Ensure image is grayscale
+    if len(image.shape) == 3:
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     
-    print("-" * 40)
+    # Calculate the GLCM
+    glcm = graycomatrix(image, distances=[1], angles=[0, np.pi/4, np.pi/2, 3*np.pi/4], levels=256, symmetric=True, normed=True)
+    # Calculate contrast and take the mean across all angles
+    contrast = graycoprops(glcm, 'contrast').mean()
+    return contrast
+
+# Wavelet Features Extraction (Energy of Approximation Coefficients)
+def extract_wavelet_features(image):
+    # Ensure image is grayscale
+    if len(image.shape) == 3:
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    
+    # Perform the discrete wavelet transform
+    coeffs = pywt.dwt2(image, 'db1')
+    cA, (cH, cV, cD) = coeffs
+    # Calculate the energy of the approximation coefficients
+    energy = np.sum(np.square(cA))
+    return energy
+
+# Entropy Feature Extraction
+def extract_entropy(image):
+    # Ensure image is grayscale
+    if len(image.shape) == 3:
+        image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    
+    # Calculate Shannon entropy
+    entropy_value = shannon_entropy(image)
+    return entropy_value
+
+# Color Feature Extraction
+def extract_color_features(image):
+    # Convert the image to RGB format
+    image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    
+     # Calculate histograms for each color channel
+    hist_r = cv2.calcHist([image_rgb[:, :, 0]], [0], None, [256], [0, 256])
+    hist_g = cv2.calcHist([image_rgb[:, :, 1]], [0], None, [256], [0, 256])
+    hist_b = cv2.calcHist([image_rgb[:, :, 2]], [0], None, [256], [0, 256])
+    
+    # Flatten histograms and calculate mean values
+    hist_r_flat = hist_r.flatten()
+    hist_g_flat = hist_g.flatten()
+    hist_b_flat = hist_b.flatten()
+    
+    hist_r_mean = np.mean(hist_r_flat)
+    hist_g_mean = np.mean(hist_g_flat)
+    hist_b_mean = np.mean(hist_b_flat)
+    
+    # Return color features as a dictionary
+    color_features = {
+        'Histogram Red Mean': hist_r_mean,
+        'Histogram Green Mean': hist_g_mean,
+        'Histogram Blue Mean': hist_b_mean,
+    }
+    return color_features
+
+# Function to extract all features with detailed names
+def extract_all_features(image):
+    # Extract texture features
+    glcm_contrast = extract_glcm_features(image)
+    wavelet_energy = extract_wavelet_features(image)
+    entropy_value = extract_entropy(image)
+    
+    # Extract color features
+    color_features = extract_color_features(image)
+    
+    # Combine all features into a single dictionary
+    features = {
+        'Color Contrast (GLCM)': glcm_contrast,
+        'Wavelet Energy': wavelet_energy,
+        'Entropy': entropy_value,
+    }
+    features.update(color_features)  # Add color features to the existing features
+    
+    return features
