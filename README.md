@@ -14,6 +14,10 @@ This repository contains a project that uses a Swin Transformer model to classif
 
 ### 2. **Feature Extraction**
    - Once the soil type is identified, the model extracts specific texture and structural features from the soil image.
+     - **GLCM Contrast**
+     - **Wavelet Energy**
+     - **Entropy**
+     - **RGB Mean**
    - These features are crucial in understanding the soil's suitability for different crops.
 
 ### 3. **Crop Prediction**
