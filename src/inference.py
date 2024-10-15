@@ -9,6 +9,7 @@ import argparse
 import pathlib
 from model import build_model
 from feature import extract_all_features  # Import the function from features.py
+import csv
 
 # OpenMP runtime
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
@@ -62,6 +63,10 @@ def inference_and_extract_features(model, testloader, device, orig_image):
 
         # Extract features from grayscale image
         extracted_features = extract_all_features(gray_image)
+
+        # Extracted + Soil Type
+        all_features = extracted_features
+        all_features.update({'Soil Type' : {CLASS_NAMES[int(output_class)]}})
         
         # Print the soil type and features
         print(f"Soil Type: {CLASS_NAMES[int(output_class)]}")
@@ -72,7 +77,14 @@ def inference_and_extract_features(model, testloader, device, orig_image):
         # Annotate the original image with the soil type
         result = annotate_image(output_class, orig_image)
 
-        return result
+        return (result, all_features)
+
+# Soil images features csv generation function
+def generate_feature_dataset(features_list):
+    with open('../outputs/features.csv', 'w', newline='') as file:
+        writer = csv.DictWriter(file, fieldnames=features_list[0].keys())
+        writer.writeheader()
+        writer.writerows(features_list)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -98,6 +110,7 @@ if __name__ == '__main__':
 
     transform = get_test_transform(IMAGE_RESIZE)
 
+    features_list = []
     for i, image_path in enumerate(all_image_paths):
         print(f"\nInference on image: {i+1}\n")
         image = cv2.imread(image_path)
@@ -105,13 +118,16 @@ if __name__ == '__main__':
         image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
         image = transform(image)
         image = torch.unsqueeze(image, 0)
-        result = inference_and_extract_features(
+        result, features = inference_and_extract_features(
             model, 
             image,
             DEVICE,
             orig_image
         )
         
+        # List of features of all soil images
+        features_list.append(features)
+
         # Save the image to disk
         image_name = image_path.split(os.path.sep)[-1]
         if not image_name.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp')):
@@ -119,4 +135,7 @@ if __name__ == '__main__':
         cv2.imwrite(
             os.path.join(infer_result_path, image_name), result
         )
+    
+    # Generate csv after all image features are extracted
+    generate_feature_dataset(features_list)
     print("\n")
