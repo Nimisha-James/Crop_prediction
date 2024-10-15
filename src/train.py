@@ -9,6 +9,9 @@ from model import build_model
 from datasets import get_datasets, get_data_loaders
 from utils import save_model, save_plots, SaveBestModel
 
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
+
 seed = 42
 torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)

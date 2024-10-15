@@ -1,6 +1,10 @@
 from torchvision import models
 
 import torch.nn as nn
+import os
+
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 def build_model(fine_tune=True, num_classes=10):
     model = models.swin_t(weights='DEFAULT')

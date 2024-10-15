@@ -3,6 +3,8 @@ import os
 from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 # Required constants.
 TRAIN_DIR = os.path.join('..', 'input', 'data', 'train')
 VALID_DIR = os.path.join('..', 'input', 'data', 'valid')

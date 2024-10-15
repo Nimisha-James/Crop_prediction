@@ -3,6 +3,10 @@ from skimage.feature import graycomatrix, graycoprops
 from skimage.measure import shannon_entropy
 import pywt
 import cv2
+import os
+
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 
 # GLCM Contrast Feature Extraction
 def extract_glcm_features(image):

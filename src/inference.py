@@ -10,6 +10,9 @@ import pathlib
 from model import build_model
 from feature import extract_all_features  # Import the function from features.py
 
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
+
 # Constants and other configurations
 DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
 IMAGE_RESIZE = 224
