@@ -62,11 +62,12 @@ def extract_color_features(image):
     hist_g_mean = np.mean(hist_g_flat)
     hist_b_mean = np.mean(hist_b_flat)
     
+    # Mean of RGB histogram values
+    hist_rgb_mean = np.mean([hist_r_mean, hist_g_mean, hist_b_mean])
+
     # Return color features as a dictionary
     color_features = {
-        'Histogram Red Mean': hist_r_mean,
-        'Histogram Green Mean': hist_g_mean,
-        'Histogram Blue Mean': hist_b_mean,
+    'Histogram RGB Mean': hist_rgb_mean
     }
     return color_features
 
@@ -82,7 +83,7 @@ def extract_all_features(image):
     
     # Combine all features into a single dictionary
     features = {
-        'Color Contrast (GLCM)': glcm_contrast,
+        'GLCM Contrast': glcm_contrast,
         'Wavelet Energy': wavelet_energy,
         'Entropy': entropy_value,
     }
