@@ -5,6 +5,9 @@ import os
 
 matplotlib.style.use('ggplot')
 
+# OpenMP runtime
+os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
+
 class SaveBestModel:
     """
     Class to save the best model while training. If the current epoch's 
