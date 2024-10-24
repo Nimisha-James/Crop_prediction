@@ -1,0 +1,3901 @@
+
+
+Inference on image: 1
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 3302.8276626547295
+  Wavelet Energy: 13151979730.25
+  Entropy: 7.72070079488099
+  Histogram RGB Mean: 2605.46875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 2
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1068.82569029792
+  Wavelet Energy: 26121746985.5
+  Entropy: 7.481504133188128
+  Histogram RGB Mean: 4397.65625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 3
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 474.28465803941674
+  Wavelet Energy: 252175922.25000006
+  Entropy: 6.911735864231078
+  Histogram RGB Mean: 105.5
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 4
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1619.5287269982698
+  Wavelet Energy: 3141736364.500001
+  Entropy: 7.65014683853062
+  Histogram RGB Mean: 585.15625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 5
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 494.9113766750177
+  Wavelet Energy: 1732046212.5000002
+  Entropy: 7.53685432285896
+  Histogram RGB Mean: 345.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 6
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1092.323890904996
+  Wavelet Energy: 3923565051.0
+  Entropy: 6.806476229207582
+  Histogram RGB Mean: 426.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 7
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 376.5432828811847
+  Wavelet Energy: 2627933706.0
+  Entropy: 7.179315315722169
+  Histogram RGB Mean: 379.53125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 8
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1060.5959163352677
+  Wavelet Energy: 2328560456.75
+  Entropy: 7.585070371298005
+  Histogram RGB Mean: 428.75
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 9
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 422.3374884884485
+  Wavelet Energy: 8059018201.5
+  Entropy: 7.01218401454847
+  Histogram RGB Mean: 1030.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 10
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 289.4867539941528
+  Wavelet Energy: 16315690008.5
+  Entropy: 6.934514062855192
+  Histogram RGB Mean: 1659.375
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 11
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 492.5751795763757
+  Wavelet Energy: 11318259261.25
+  Entropy: 7.3573819322431175
+  Histogram RGB Mean: 1659.375
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 12
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 349.967938267527
+  Wavelet Energy: 2487057237.5
+  Entropy: 7.264204713886713
+  Histogram RGB Mean: 505.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 13
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 798.8008596002916
+  Wavelet Energy: 908734332.2500001
+  Entropy: 6.916930105163054
+  Histogram RGB Mean: 426.5625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 14
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 286.6993099114835
+  Wavelet Energy: 1450131930.25
+  Entropy: 6.862537514500276
+  Histogram RGB Mean: 304.765625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 15
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 467.79955219497475
+  Wavelet Energy: 2292974169.5
+  Entropy: 7.142206770316623
+  Histogram RGB Mean: 505.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 16
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 471.6214000160062
+  Wavelet Energy: 2649046895.5
+  Entropy: 7.109317551982492
+  Histogram RGB Mean: 426.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 17
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 511.5573696236446
+  Wavelet Energy: 1246592179.25
+  Entropy: 7.130908074716766
+  Histogram RGB Mean: 239.7421875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 18
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 623.3575575622464
+  Wavelet Energy: 1113926699.5
+  Entropy: 7.180815987006417
+  Histogram RGB Mean: 146.8125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 19
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 623.3575575622464
+  Wavelet Energy: 1113926699.5
+  Entropy: 7.180815987006417
+  Histogram RGB Mean: 146.8125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 20
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 478.54217777047364
+  Wavelet Energy: 836959360.5
+  Entropy: 7.444180054905731
+  Histogram RGB Mean: 270.25
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 21
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 621.1281877244859
+  Wavelet Energy: 1118932598.0
+  Entropy: 6.79568378068588
+  Histogram RGB Mean: 426.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 22
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 824.0160107512176
+  Wavelet Energy: 1208363840.5
+  Entropy: 6.9768196425399
+  Histogram RGB Mean: 207.24609375
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 23
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 664.5692236259478
+  Wavelet Energy: 149911138.0
+  Entropy: 6.545804420233874
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 24
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1616.8937392852397
+  Wavelet Energy: 254096114.7500001
+  Entropy: 7.079726071462916
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 25
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 482.7562033294349
+  Wavelet Energy: 286433099.5
+  Entropy: 6.137888779260817
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 26
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 584.0606749231182
+  Wavelet Energy: 79568556.50000003
+  Entropy: 6.188496105830659
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 27
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 879.0460459007645
+  Wavelet Energy: 170013947.00000006
+  Entropy: 6.76064589132072
+  Histogram RGB Mean: 197.109375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 28
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1813.8045848493464
+  Wavelet Energy: 205534776.50000006
+  Entropy: 7.121726374781785
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 29
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1272.7615357802285
+  Wavelet Energy: 234184469.25000003
+  Entropy: 6.773822457323254
+  Histogram RGB Mean: 197.5234375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 30
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 293.02287749773706
+  Wavelet Energy: 54040959.25000001
+  Entropy: 5.7965626930193075
+  Histogram RGB Mean: 149.375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 31
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1861.2203367541315
+  Wavelet Energy: 276043011.5000001
+  Entropy: 7.2710645066551445
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 32
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 432.24031565250493
+  Wavelet Energy: 183804755.25000006
+  Entropy: 6.249913503055099
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 33
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1958.7223494398127
+  Wavelet Energy: 555841580.0000001
+  Entropy: 7.335002228873231
+  Histogram RGB Mean: 196.53125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 34
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 933.8434534536459
+  Wavelet Energy: 1146324946.7500002
+  Entropy: 6.138909170193354
+  Histogram RGB Mean: 196.5546875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 35
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 473.29214680856387
+  Wavelet Energy: 184060076.25000003
+  Entropy: 6.391910701339809
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 36
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 564.3675487451984
+  Wavelet Energy: 423587823.00000006
+  Entropy: 6.942180183563572
+  Histogram RGB Mean: 197.296875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 37
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 848.9160631967454
+  Wavelet Energy: 223092113.50000003
+  Entropy: 6.8985460655207085
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 38
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 991.736679299147
+  Wavelet Energy: 210554121.75000006
+  Entropy: 6.569461929088636
+  Histogram RGB Mean: 197.07421875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 39
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 377.0948533611638
+  Wavelet Energy: 896917852.5
+  Entropy: 5.33702982812037
+  Histogram RGB Mean: 197.296875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 40
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 513.8032611083258
+  Wavelet Energy: 534180623.0000001
+  Entropy: 6.445256852862078
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 41
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 811.5500379722248
+  Wavelet Energy: 315407459.25
+  Entropy: 6.566127860088925
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 42
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 811.0230191673381
+  Wavelet Energy: 300481650.00000006
+  Entropy: 7.04875835582716
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 43
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1468.2948689406053
+  Wavelet Energy: 593254039.2500001
+  Entropy: 7.123987793522756
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 44
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 849.8277345444338
+  Wavelet Energy: 140014133.75
+  Entropy: 6.452609100523404
+  Histogram RGB Mean: 197.07421875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 45
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 674.1081753117991
+  Wavelet Energy: 1560654481.5000002
+  Entropy: 5.602817490911071
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 46
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1192.7680633204131
+  Wavelet Energy: 326902864.5000001
+  Entropy: 7.022078634831479
+  Histogram RGB Mean: 196.453125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 47
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 480.1444260296846
+  Wavelet Energy: 145541347.00000003
+  Entropy: 6.737536556390624
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 48
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 459.06934512438687
+  Wavelet Energy: 141129715.75
+  Entropy: 6.513498661556535
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 49
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 696.8853142003952
+  Wavelet Energy: 306914218.75000006
+  Entropy: 6.663743759118244
+  Histogram RGB Mean: 196.49609375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 50
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 671.47295587903
+  Wavelet Energy: 1208991527.0
+  Entropy: 6.582741303408326
+  Histogram RGB Mean: 196.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 51
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 543.6062571634338
+  Wavelet Energy: 198754186.25000006
+  Entropy: 6.724919973199301
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 52
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 328.43504269873586
+  Wavelet Energy: 195736980.50000003
+  Entropy: 6.091662927788038
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 53
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 2528.572641885716
+  Wavelet Energy: 734386896.7500002
+  Entropy: 7.656612007896532
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 54
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 981.8193488608172
+  Wavelet Energy: 513464429.2500001
+  Entropy: 6.907719355819312
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 55
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 579.9256060336347
+  Wavelet Energy: 270823649.5
+  Entropy: 6.264797659226111
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 56
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 966.4459009619643
+  Wavelet Energy: 1562605665.7500002
+  Entropy: 5.619498558972882
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 57
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 736.2208348558069
+  Wavelet Energy: 164274616.00000006
+  Entropy: 6.660467239282503
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 58
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 390.61315360381906
+  Wavelet Energy: 143430587.00000003
+  Entropy: 5.722521432202804
+  Histogram RGB Mean: 196.5
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 59
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 98.83473793843044
+  Wavelet Energy: 72645029.5
+  Entropy: 5.641632962390966
+  Histogram RGB Mean: 197.3359375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 60
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 282.24061837752254
+  Wavelet Energy: 71021108.50000003
+  Entropy: 5.959741414524711
+  Histogram RGB Mean: 196.21875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 61
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 947.3783554997889
+  Wavelet Energy: 99005670.75000001
+  Entropy: 6.576392961468582
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 62
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1838.1943024830712
+  Wavelet Energy: 289535154.0000001
+  Entropy: 7.123829009058275
+  Histogram RGB Mean: 196.875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 63
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 403.9164656784627
+  Wavelet Energy: 177958408.0
+  Entropy: 6.228959964864977
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 64
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 970.6887358378954
+  Wavelet Energy: 208311473.50000006
+  Entropy: 6.975301831086046
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 65
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 879.4310679489377
+  Wavelet Energy: 37843815960.25
+  Entropy: 7.42098248973709
+  Histogram RGB Mean: 7731.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 66
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 661.7377232652505
+  Wavelet Energy: 7644365100.5
+  Entropy: 7.097608532835445
+  Histogram RGB Mean: 1665.625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 67
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 3572.314437071276
+  Wavelet Energy: 878846583.7500001
+  Entropy: 7.474978451353684
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 68
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1776.847914558583
+  Wavelet Energy: 1413437054.5000005
+  Entropy: 7.624015650672904
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 69
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2397.565297209707
+  Wavelet Energy: 1501546800.2500005
+  Entropy: 7.5779891805957975
+  Histogram RGB Mean: 196.96875
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 70
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1819.3832776419024
+  Wavelet Energy: 532679460.50000006
+  Entropy: 7.292541856351733
+  Histogram RGB Mean: 197.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 71
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2073.9277456385544
+  Wavelet Energy: 1430725985.5000002
+  Entropy: 7.413128979165725
+  Histogram RGB Mean: 196.22265625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 72
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2127.63673010763
+  Wavelet Energy: 1996838695.0000002
+  Entropy: 6.975629275942354
+  Histogram RGB Mean: 197.296875
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 73
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1110.4802632950518
+  Wavelet Energy: 613257742.0
+  Entropy: 7.3297931684771775
+  Histogram RGB Mean: 196.5
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 74
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1798.653720721552
+  Wavelet Energy: 1539557903.7500002
+  Entropy: 7.320639340058321
+  Histogram RGB Mean: 196.3828125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 75
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 715.4082995747823
+  Wavelet Energy: 1072873565.7500001
+  Entropy: 6.976932007675068
+  Histogram RGB Mean: 197.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 76
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2077.7990417399133
+  Wavelet Energy: 1116433977.2500005
+  Entropy: 7.882808929908074
+  Histogram RGB Mean: 196.59375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 77
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 744.8431997271008
+  Wavelet Energy: 536679081.00000006
+  Entropy: 6.8436865932536275
+  Histogram RGB Mean: 196.9375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 78
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1521.0651762339398
+  Wavelet Energy: 813896394.5000001
+  Entropy: 7.5238938663635775
+  Histogram RGB Mean: 197.12109375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 79
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 967.1491896987661
+  Wavelet Energy: 1338172068.7500002
+  Entropy: 6.578373198168554
+  Histogram RGB Mean: 197.5078125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 80
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1864.3707192943698
+  Wavelet Energy: 619609351.25
+  Entropy: 7.404267048392151
+  Histogram RGB Mean: 197.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 81
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1426.7016306659598
+  Wavelet Energy: 1350629024.7500005
+  Entropy: 7.385515349286765
+  Histogram RGB Mean: 197.12109375
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 82
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2300.656072677635
+  Wavelet Energy: 1044498958.2500001
+  Entropy: 7.525181331591297
+  Histogram RGB Mean: 197.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 83
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 4422.56604470695
+  Wavelet Energy: 2047250233.0000002
+  Entropy: 7.09069856918734
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 84
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2169.8489183113234
+  Wavelet Energy: 1818961560.7500002
+  Entropy: 6.933254114781476
+  Histogram RGB Mean: 196.5
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 85
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1937.0664420453513
+  Wavelet Energy: 1237988914.25
+  Entropy: 7.001591091275876
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 86
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1373.9869617275415
+  Wavelet Energy: 1735442244.0000002
+  Entropy: 7.213979544859197
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 87
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1551.4679279053667
+  Wavelet Energy: 889569148.25
+  Entropy: 7.625169507901729
+  Histogram RGB Mean: 196.96875
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 88
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1273.6965504525874
+  Wavelet Energy: 536471742.50000006
+  Entropy: 7.331760019079888
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 89
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 235.1934555416725
+  Wavelet Energy: 834976758.25
+  Entropy: 6.9411857365656395
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 90
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 483.944848288061
+  Wavelet Energy: 24769057074.25
+  Entropy: 7.5532715769563605
+  Histogram RGB Mean: 6591.796875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 91
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1771.4113606435772
+  Wavelet Energy: 11247183041.5
+  Entropy: 7.277348328728931
+  Histogram RGB Mean: 2605.46875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 92
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 3302.8276626547295
+  Wavelet Energy: 13151979730.25
+  Entropy: 7.72070079488099
+  Histogram RGB Mean: 2605.46875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 93
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 435.3480374533377
+  Wavelet Energy: 111743502697.75
+  Entropy: 7.287115599882763
+  Histogram RGB Mean: 19200.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 94
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1627.7113126403187
+  Wavelet Energy: 23909090078.75
+  Entropy: 7.364972150083312
+  Histogram RGB Mean: 4372.265625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 95
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 201.6875854261158
+  Wavelet Energy: 51021162989.0
+  Entropy: 6.688839914630847
+  Histogram RGB Mean: 16224.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 96
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 979.8824285997612
+  Wavelet Energy: 15515195668.5
+  Entropy: 7.507950558121258
+  Histogram RGB Mean: 3164.0625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 97
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 728.5630399633089
+  Wavelet Energy: 22275998496.25
+  Entropy: 7.114705747329033
+  Histogram RGB Mean: 4800.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 98
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2465.7086291809596
+  Wavelet Energy: 1681210057.7500002
+  Entropy: 7.5627393693568985
+  Histogram RGB Mean: 428.75
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 99
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2025.0533379764029
+  Wavelet Energy: 2709821221.5
+  Entropy: 7.688053717702059
+  Histogram RGB Mean: 686.0
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 100
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 879.4310679489377
+  Wavelet Energy: 37843815960.25
+  Entropy: 7.42098248973709
+  Histogram RGB Mean: 7731.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 101
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1148.3574713965447
+  Wavelet Energy: 2834839566.25
+  Entropy: 7.340901153999947
+  Histogram RGB Mean: 351.5625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 102
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 774.5830232589257
+  Wavelet Energy: 42235798344.25
+  Entropy: 7.5256711882539395
+  Histogram RGB Mean: 9630.0
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 103
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1886.257978231526
+  Wavelet Energy: 6451937615.250001
+  Entropy: 7.553189567155213
+  Histogram RGB Mean: 1953.125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 104
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 528.3743802654544
+  Wavelet Energy: 2482735170.25
+  Entropy: 7.30337706256008
+  Histogram RGB Mean: 478.515625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 105
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 366.37325938851393
+  Wavelet Energy: 76271126510.0
+  Entropy: 7.613472099328723
+  Histogram RGB Mean: 14742.0
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 106
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 933.5140496413928
+  Wavelet Energy: 16171270747.250002
+  Entropy: 7.602559300730543
+  Histogram RGB Mean: 4854.6875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 107
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 272.05052444508544
+  Wavelet Energy: 70863309.75
+  Entropy: 5.892606058207097
+  Histogram RGB Mean: 196.765625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 108
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 949.6858160850268
+  Wavelet Energy: 98991950.50000001
+  Entropy: 6.568844825381295
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 109
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1188.7910200874871
+  Wavelet Energy: 11690944619.5
+  Entropy: 7.707930555939006
+  Histogram RGB Mean: 1665.625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 110
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1188.7910200874871
+  Wavelet Energy: 11690944619.5
+  Entropy: 7.707930555939006
+  Histogram RGB Mean: 1665.625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 111
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 566.501698172972
+  Wavelet Energy: 2381792750.0
+  Entropy: 6.873466964775715
+  Histogram RGB Mean: 407.96875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 112
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1462.4156830144261
+  Wavelet Energy: 686247297.2500002
+  Entropy: 7.448480966105481
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 113
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 475.2780097385139
+  Wavelet Energy: 1127207585.5
+  Entropy: 7.011354915552068
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 114
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 688.1552305887043
+  Wavelet Energy: 248424495.75000003
+  Entropy: 6.790665171786745
+  Histogram RGB Mean: 39.0625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 115
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2184.4020882527
+  Wavelet Energy: 1858148580.25
+  Entropy: 7.337155562750362
+  Histogram RGB Mean: 504.21875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 116
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2016.6575946331382
+  Wavelet Energy: 97968588.75000003
+  Entropy: 7.045506160954604
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 117
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 796.6074970916907
+  Wavelet Energy: 543919033.25
+  Entropy: 6.97804530935874
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 118
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1154.1272374046212
+  Wavelet Energy: 355954709.5000001
+  Entropy: 6.948950189227045
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 119
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1462.4156830144261
+  Wavelet Energy: 686247297.2500002
+  Entropy: 7.448480966105481
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 120
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 841.4825653452651
+  Wavelet Energy: 1254159468.7500002
+  Entropy: 6.979848334763264
+  Histogram RGB Mean: 196.8828125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 121
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2064.7768579021517
+  Wavelet Energy: 779996101.2500001
+  Entropy: 7.305805420974951
+  Histogram RGB Mean: 196.875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 122
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1733.3259514319095
+  Wavelet Energy: 1300275403.2500005
+  Entropy: 7.254645851694438
+  Histogram RGB Mean: 196.5
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 123
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1114.4382466273667
+  Wavelet Energy: 1529954407.75
+  Entropy: 6.4626646520058175
+  Histogram RGB Mean: 196.171875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 124
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 188.55186023950125
+  Wavelet Energy: 1711873105.0
+  Entropy: 6.42191286648191
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 125
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 866.8512973165813
+  Wavelet Energy: 69936649.50000003
+  Entropy: 6.646252826545498
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 126
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 635.878047650056
+  Wavelet Energy: 343460339.7500001
+  Entropy: 6.47598349088877
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 127
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 584.643713188575
+  Wavelet Energy: 680495869.0000001
+  Entropy: 6.389936532129236
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 128
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 574.4128287704534
+  Wavelet Energy: 477424337.0000001
+  Entropy: 6.663054940116676
+  Histogram RGB Mean: 197.296875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 129
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 322.5349339157686
+  Wavelet Energy: 1029031050.0000002
+  Entropy: 6.742874374654968
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 130
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 192.02370801280358
+  Wavelet Energy: 1244557418.75
+  Entropy: 7.220380214611516
+  Histogram RGB Mean: 197.03125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 131
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 348.30987705335554
+  Wavelet Energy: 96463121.75000003
+  Entropy: 6.1214314791695
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 132
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 475.2780097385139
+  Wavelet Energy: 1127207585.5
+  Entropy: 7.011354915552068
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 133
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 780.1921610039607
+  Wavelet Energy: 267682122.00000006
+  Entropy: 7.238404648716132
+  Histogram RGB Mean: 39.0625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 134
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 239.49467554330766
+  Wavelet Energy: 134252494.75
+  Entropy: 5.651329587603539
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 135
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 717.9199271922989
+  Wavelet Energy: 354958075.0
+  Entropy: 7.01787592061735
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 136
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 598.4864026359958
+  Wavelet Energy: 788617619.25
+  Entropy: 6.281288764155028
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 137
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 373.4087882062433
+  Wavelet Energy: 845444471.0
+  Entropy: 7.09180749071354
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 138
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 58.67879693428975
+  Wavelet Energy: 770672247.0
+  Entropy: 5.589742417884366
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 139
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2.1295986622073575
+  Wavelet Energy: 553409136.0000001
+  Entropy: 1.6118935460197932
+  Histogram RGB Mean: 196.875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 140
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 222.80507439282263
+  Wavelet Energy: 1112545076.25
+  Entropy: 5.93015040806086
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 141
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 247.04293506174398
+  Wavelet Energy: 580309059.5
+  Entropy: 6.773129950913978
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 142
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 245.59190541780703
+  Wavelet Energy: 327516783.0
+  Entropy: 5.734925365292728
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 143
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 116.67394846982171
+  Wavelet Energy: 1061943512.0
+  Entropy: 6.906030437252948
+  Histogram RGB Mean: 196.9375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 144
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 933.8201249664921
+  Wavelet Energy: 1073317060.5000001
+  Entropy: 7.066100356742727
+  Histogram RGB Mean: 197.296875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 145
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 691.1701188708037
+  Wavelet Energy: 270640145.7500001
+  Entropy: 7.102221611838387
+  Histogram RGB Mean: 197.2265625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 146
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1486.7524163901107
+  Wavelet Energy: 654132580.25
+  Entropy: 7.069531907452905
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 147
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1022.089154745291
+  Wavelet Energy: 243909985.50000003
+  Entropy: 6.6739337092515605
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 148
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 435.63565529027437
+  Wavelet Energy: 26536475.500000007
+  Entropy: 6.167702218281481
+  Histogram RGB Mean: 39.0625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 149
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 554.2875476613494
+  Wavelet Energy: 1515028524.0000005
+  Entropy: 6.979414105286733
+  Histogram RGB Mean: 196.8046875
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 150
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1072.174975908575
+  Wavelet Energy: 118481865.75000004
+  Entropy: 6.7287312541308815
+  Histogram RGB Mean: 197.2265625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 151
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1072.174975908575
+  Wavelet Energy: 118481865.75000004
+  Entropy: 6.7287312541308815
+  Histogram RGB Mean: 197.2265625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 152
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1236.109339923474
+  Wavelet Energy: 471140534.0000002
+  Entropy: 7.186936756988925
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 153
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 495.1870900339721
+  Wavelet Energy: 65734928.750000015
+  Entropy: 6.197796624646529
+  Histogram RGB Mean: 196.875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 154
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 747.658064811884
+  Wavelet Energy: 113170706.50000001
+  Entropy: 6.569731512775336
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 155
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 313.90965769380773
+  Wavelet Energy: 95980299.00000001
+  Entropy: 5.929900393180488
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 156
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 313.90965769380773
+  Wavelet Energy: 95980299.00000001
+  Entropy: 5.929900393180488
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 157
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1206.66013783066
+  Wavelet Energy: 177339765.75000006
+  Entropy: 6.931094262752393
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 158
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 625.4837069934952
+  Wavelet Energy: 82755974.25000003
+  Entropy: 6.326332601691066
+  Histogram RGB Mean: 197.265625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 159
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1558.0617381263078
+  Wavelet Energy: 224555546.25000003
+  Entropy: 7.0670973191702835
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 160
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 908.2737034616523
+  Wavelet Energy: 1204999385.0000005
+  Entropy: 7.6263077974169855
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 161
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 858.9370027416797
+  Wavelet Energy: 518360376.0000002
+  Entropy: 6.849228450797185
+  Histogram RGB Mean: 197.3828125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 162
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1160.535308011773
+  Wavelet Energy: 141037548.25000006
+  Entropy: 6.754649857316625
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 163
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1160.535308011773
+  Wavelet Energy: 141037548.25000006
+  Entropy: 6.754649857316625
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 164
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 469.82269894180047
+  Wavelet Energy: 169647340.75
+  Entropy: 6.50951624185997
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 165
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 469.82269894180047
+  Wavelet Energy: 169647340.75
+  Entropy: 6.50951624185997
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 166
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 587.8955681362656
+  Wavelet Energy: 144512983.50000006
+  Entropy: 6.5145891445677595
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 167
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 587.8955681362656
+  Wavelet Energy: 144512983.50000006
+  Entropy: 6.5145891445677595
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 168
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 688.2242851305424
+  Wavelet Energy: 87954778.50000003
+  Entropy: 6.414294694988013
+  Histogram RGB Mean: 197.2265625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 169
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 688.2242851305424
+  Wavelet Energy: 87954778.50000003
+  Entropy: 6.414294694988013
+  Histogram RGB Mean: 197.2265625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 170
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 3285.452730270868
+  Wavelet Energy: 1282751824.0000005
+  Entropy: 7.676359147108177
+  Histogram RGB Mean: 196.8984375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 171
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 3285.452730270868
+  Wavelet Energy: 1282751824.0000005
+  Entropy: 7.676359147108177
+  Histogram RGB Mean: 196.8984375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 172
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1819.3530858738034
+  Wavelet Energy: 271188667.5000001
+  Entropy: 7.266852085664782
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 173
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 900.0543175135007
+  Wavelet Energy: 96894110.75000003
+  Entropy: 6.556809563099973
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 174
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 900.0543175135007
+  Wavelet Energy: 96894110.75000003
+  Entropy: 6.556809563099973
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 175
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 579.1467474834543
+  Wavelet Energy: 86426159.50000003
+  Entropy: 6.3088527053097465
+  Histogram RGB Mean: 196.875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 176
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 579.1467474834543
+  Wavelet Energy: 86426159.50000003
+  Entropy: 6.3088527053097465
+  Histogram RGB Mean: 196.875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 177
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1972.839185796377
+  Wavelet Energy: 263797091.0000001
+  Entropy: 7.159672029372838
+  Histogram RGB Mean: 196.8046875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 178
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1701.797853582589
+  Wavelet Energy: 187953497.50000006
+  Entropy: 7.0490587498050274
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 179
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 272.05052444508544
+  Wavelet Energy: 70863309.75
+  Entropy: 5.892606058207097
+  Histogram RGB Mean: 196.765625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 180
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 272.05052444508544
+  Wavelet Energy: 70863309.75
+  Entropy: 5.892606058207097
+  Histogram RGB Mean: 196.765625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 181
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 949.6858160850268
+  Wavelet Energy: 98991950.50000001
+  Entropy: 6.568844825381295
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 182
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 949.6858160850268
+  Wavelet Energy: 98991950.50000001
+  Entropy: 6.568844825381295
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 183
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 273.2536766498104
+  Wavelet Energy: 84265790.25000001
+  Entropy: 6.03521757033792
+  Histogram RGB Mean: 196.453125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 184
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 273.2536766498104
+  Wavelet Energy: 84265790.25000001
+  Entropy: 6.03521757033792
+  Histogram RGB Mean: 196.453125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 185
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 651.9286642183017
+  Wavelet Energy: 699215308.25
+  Entropy: 7.349126181646369
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 186
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 838.7492860243497
+  Wavelet Energy: 1028029897.5000001
+  Entropy: 7.302573551406194
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 187
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1118.3889291908556
+  Wavelet Energy: 207160960.25000006
+  Entropy: 7.464642398794236
+  Histogram RGB Mean: 39.0625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 188
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 584.4388508825547
+  Wavelet Energy: 114905761.75000003
+  Entropy: 6.686041800644685
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 189
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 612.6870284756601
+  Wavelet Energy: 16519157263.0
+  Entropy: 6.746419318918305
+  Histogram RGB Mean: 2365.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 190
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 441.9018977889889
+  Wavelet Energy: 362100584.50000006
+  Entropy: 6.538196950517243
+  Histogram RGB Mean: 718.125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 191
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 104.6409569157218
+  Wavelet Energy: 30748348871.25
+  Entropy: 5.043598467363824
+  Histogram RGB Mean: 3303.7109375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 192
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 378.9064276038491
+  Wavelet Energy: 3981512492.25
+  Entropy: 7.030765720527452
+  Histogram RGB Mean: 1062.90625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 193
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 857.087254167026
+  Wavelet Energy: 2278536219.5
+  Entropy: 7.525854520741492
+  Histogram RGB Mean: 444.0625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 194
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 857.087254167026
+  Wavelet Energy: 2278536219.5
+  Entropy: 7.525854520741492
+  Histogram RGB Mean: 444.0625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 195
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 273.7496831205377
+  Wavelet Energy: 21418288310.25
+  Entropy: 7.548666818930489
+  Histogram RGB Mean: 6451.171875
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 196
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 970.2413919966802
+  Wavelet Energy: 4510808798.5
+  Entropy: 7.534483076964904
+  Histogram RGB Mean: 976.5625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 197
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1853.7467733531828
+  Wavelet Energy: 26665737429.75
+  Entropy: 7.484876781262506
+  Histogram RGB Mean: 4844.53125
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 198
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 75.00766149271828
+  Wavelet Energy: 2826650631.75
+  Entropy: 3.474230555860655
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 199
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 53.61704479802449
+  Wavelet Energy: 1480365177.75
+  Entropy: 2.131207036041525
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 200
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 53.21833914516532
+  Wavelet Energy: 1480497517.2500002
+  Entropy: 2.1302703877012785
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 201
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 53.76127520794908
+  Wavelet Energy: 1480338105.75
+  Entropy: 2.132272759278047
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 202
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 53.07791674231429
+  Wavelet Energy: 1480576882.25
+  Entropy: 2.1329870523443546
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 203
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 78.8499670498491
+  Wavelet Energy: 1085897131.25
+  Entropy: 2.0009858465196664
+  Histogram RGB Mean: 2070.25
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 204
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 63.86779966760927
+  Wavelet Energy: 1111329836.5
+  Entropy: 4.123102300123174
+  Histogram RGB Mean: 2070.25
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 205
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 39.41839627709007
+  Wavelet Energy: 586166551.5
+  Entropy: 2.5023166727812662
+  Histogram RGB Mean: 2070.25
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 206
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 1374.3808643711595
+  Wavelet Energy: 1063932211.2500001
+  Entropy: 7.575470528182367
+  Histogram RGB Mean: 196.48046875
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 207
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1220.2960539854369
+  Wavelet Energy: 944505738.5000002
+  Entropy: 7.848140526316969
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 208
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 2201.914861748721
+  Wavelet Energy: 132903651.25000003
+  Entropy: 7.272020193698527
+  Histogram RGB Mean: 39.0625
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 209
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 161.40453249415114
+  Wavelet Energy: 501280140.75000006
+  Entropy: 5.833037697555526
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 210
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 277.3509618916414
+  Wavelet Energy: 190114046.0
+  Entropy: 6.233158465267074
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 211
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1392.1970668808692
+  Wavelet Energy: 140357239.00000006
+  Entropy: 7.301192715055484
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 212
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 317.25719825918776
+  Wavelet Energy: 894510645.5
+  Entropy: 6.549847051206995
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 213
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2425.4013399477244
+  Wavelet Energy: 661912718.7500002
+  Entropy: 7.4835109963256885
+  Histogram RGB Mean: 197.5234375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 214
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 348.30987705335554
+  Wavelet Energy: 96463121.75000003
+  Entropy: 6.1214314791695
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 215
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 538.0206695356208
+  Wavelet Energy: 461756053.25000006
+  Entropy: 6.870276972902976
+  Histogram RGB Mean: 196.453125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 216
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 405.4304851872072
+  Wavelet Energy: 607179624.25
+  Entropy: 6.227056441527754
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 217
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 225.32860654939137
+  Wavelet Energy: 83764029.75000003
+  Entropy: 5.864552494345936
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 218
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1022.089154745291
+  Wavelet Energy: 243909985.50000003
+  Entropy: 6.6739337092515605
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 219
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 414.25136049994643
+  Wavelet Energy: 94653297.50000003
+  Entropy: 6.370879274517431
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 220
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 732.5656136543988
+  Wavelet Energy: 361891104.2500001
+  Entropy: 6.84709862711082
+  Histogram RGB Mean: 196.59375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 221
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 53.983171023265214
+  Wavelet Energy: 32018124.000000004
+  Entropy: 5.138876097494308
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 222
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 495.1870900339721
+  Wavelet Energy: 65734928.750000015
+  Entropy: 6.197796624646529
+  Histogram RGB Mean: 196.875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 223
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 713.4206033207685
+  Wavelet Energy: 135475526.25
+  Entropy: 6.525104221092082
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 224
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 747.658064811884
+  Wavelet Energy: 113170706.50000001
+  Entropy: 6.569731512775336
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 225
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 568.07006370609
+  Wavelet Energy: 93395199.00000003
+  Entropy: 6.423442534836746
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 226
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1460.3820818267923
+  Wavelet Energy: 154360661.75000006
+  Entropy: 6.919646943617837
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 227
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1206.66013783066
+  Wavelet Energy: 177339765.75000006
+  Entropy: 6.931094262752393
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 228
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1466.6569511587306
+  Wavelet Energy: 226790559.00000003
+  Entropy: 7.053091890962994
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 229
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1558.0617381263078
+  Wavelet Energy: 224555546.25000003
+  Entropy: 7.0670973191702835
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 230
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 496.78371441416095
+  Wavelet Energy: 231178544.0000001
+  Entropy: 6.959350364659607
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 231
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 235.5126857091606
+  Wavelet Energy: 98213519.5
+  Entropy: 6.361299977851648
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 232
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1406.685007393538
+  Wavelet Energy: 194424040.00000006
+  Entropy: 7.036044387304951
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 233
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 2910.7342690782098
+  Wavelet Energy: 333978545.5000001
+  Entropy: 7.419824951784287
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 234
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 990.3812164982412
+  Wavelet Energy: 196571204.25000006
+  Entropy: 6.9084840839911195
+  Histogram RGB Mean: 197.07421875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 235
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1819.3530858738034
+  Wavelet Energy: 271188667.5000001
+  Entropy: 7.266852085664782
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 236
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1972.839185796377
+  Wavelet Energy: 263797091.0000001
+  Entropy: 7.159672029372838
+  Histogram RGB Mean: 196.8046875
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 237
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 1701.797853582589
+  Wavelet Energy: 187953497.50000006
+  Entropy: 7.0490587498050274
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 238
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 838.7492860243497
+  Wavelet Energy: 1028029897.5000001
+  Entropy: 7.302573551406194
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 239
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 693.4854299108617
+  Wavelet Energy: 16428818174.5
+  Entropy: 6.699898021617297
+  Histogram RGB Mean: 2365.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 240
+
+Soil Type: Black Soil
+Extracted Features:
+  GLCM Contrast: 441.9018977889889
+  Wavelet Energy: 362100584.50000006
+  Entropy: 6.538196950517243
+  Histogram RGB Mean: 718.125
+  Soil Type: Black Soil
+
+Predicted Crop: Sugarcane
+____________________________________________________________________________________________________________________________
+
+Inference on image: 241
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 104.11972021590634
+  Wavelet Energy: 138426436231.25
+  Entropy: 6.656066341183546
+  Histogram RGB Mean: 19200.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 242
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 762.4154174277135
+  Wavelet Energy: 16446474541.0
+  Entropy: 6.73439167089028
+  Histogram RGB Mean: 2365.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 243
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 367.4298919992866
+  Wavelet Energy: 15273984729.25
+  Entropy: 6.23767386610383
+  Histogram RGB Mean: 2365.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 244
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 762.1225081593819
+  Wavelet Energy: 16037119200.25
+  Entropy: 6.765811654492403
+  Histogram RGB Mean: 2365.3125
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 245
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 2040.2067099415187
+  Wavelet Energy: 7165330644.0
+  Entropy: 7.537553512573281
+  Histogram RGB Mean: 1659.375
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 246
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 756.2855150563066
+  Wavelet Energy: 1471149989.5
+  Entropy: 6.450951087882159
+  Histogram RGB Mean: 426.5625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 247
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 416.16536961644624
+  Wavelet Energy: 2429377621.5
+  Entropy: 6.1759062922454735
+  Histogram RGB Mean: 1406.25
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 248
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 100.3619697631822
+  Wavelet Energy: 8261912069.5
+  Entropy: 5.404792038821326
+  Histogram RGB Mean: 976.5625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 249
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 367.4753859157274
+  Wavelet Energy: 3419256966.5
+  Entropy: 6.654644554841533
+  Histogram RGB Mean: 724.609375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 250
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1308.5773118508992
+  Wavelet Energy: 5604074647.5
+  Entropy: 7.318947401492838
+  Histogram RGB Mean: 1665.625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 251
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 304.442319247764
+  Wavelet Energy: 7093707337.0
+  Entropy: 7.118755601014717
+  Histogram RGB Mean: 1914.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 252
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 128.88749956948345
+  Wavelet Energy: 5714748158.75
+  Entropy: 7.021293826133713
+  Histogram RGB Mean: 1935.9375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 253
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 255.80746200955787
+  Wavelet Energy: 553747813.0000001
+  Entropy: 5.649373653051754
+  Histogram RGB Mean: 196.6796875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 254
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 670.0689217466596
+  Wavelet Energy: 224358449.75000003
+  Entropy: 6.87519042125708
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 255
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 85.35144118555667
+  Wavelet Energy: 260474463.75
+  Entropy: 6.273482084584155
+  Histogram RGB Mean: 105.46875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 256
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 196.40163871234438
+  Wavelet Energy: 276143253.0000001
+  Entropy: 7.233630951123164
+  Histogram RGB Mean: 106.078125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 257
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2079.311081194339
+  Wavelet Energy: 706534344.5
+  Entropy: 7.44523693927901
+  Histogram RGB Mean: 197.75390625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 258
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 332.54447420887686
+  Wavelet Energy: 650756352.0
+  Entropy: 6.436168563844769
+  Histogram RGB Mean: 196.171875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 259
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 270.8360554711056
+  Wavelet Energy: 1013759965.5000002
+  Entropy: 7.23884595916602
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 260
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 460.99970947226893
+  Wavelet Energy: 331683479.0000001
+  Entropy: 7.24166749948088
+  Histogram RGB Mean: 106.9140625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 261
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 266.14818149198373
+  Wavelet Energy: 213365597.00000006
+  Entropy: 7.042396616106804
+  Histogram RGB Mean: 91.609375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 262
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 629.931088937516
+  Wavelet Energy: 351926470.25000006
+  Entropy: 7.111538783116129
+  Histogram RGB Mean: 197.65625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 263
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 871.6681458781372
+  Wavelet Energy: 339115008.25
+  Entropy: 7.267987425983349
+  Histogram RGB Mean: 97.3984375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 264
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 338.6721695049848
+  Wavelet Energy: 216569048.50000006
+  Entropy: 6.190994147366303
+  Histogram RGB Mean: 104.125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 265
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 900.7474741740498
+  Wavelet Energy: 490866685.5
+  Entropy: 7.228156866571569
+  Histogram RGB Mean: 154.6875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 266
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 964.0314355572357
+  Wavelet Energy: 348747233.5
+  Entropy: 7.189329951049846
+  Histogram RGB Mean: 95.72265625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 267
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 695.904890638862
+  Wavelet Energy: 799642048.25
+  Entropy: 6.4117674503790445
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 268
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 304.6569768762858
+  Wavelet Energy: 1511152464.5000002
+  Entropy: 6.3224971628156315
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 269
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1168.6474221083927
+  Wavelet Energy: 375701860.25
+  Entropy: 7.630104479919682
+  Histogram RGB Mean: 98.765625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 270
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 647.643224013302
+  Wavelet Energy: 611030751.5
+  Entropy: 6.658072707940682
+  Histogram RGB Mean: 150.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 271
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 404.9577603488441
+  Wavelet Energy: 203184747.25
+  Entropy: 6.928639171273981
+  Histogram RGB Mean: 130.046875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 272
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 833.4127299028023
+  Wavelet Energy: 330940069.0
+  Entropy: 7.2338747581550695
+  Histogram RGB Mean: 129.0
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 273
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 439.2566401750456
+  Wavelet Energy: 75931763.50000003
+  Entropy: 7.125073593741066
+  Histogram RGB Mean: 49.25
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 274
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 196.72081609142415
+  Wavelet Energy: 221114389.00000006
+  Entropy: 6.7339422839699905
+  Histogram RGB Mean: 104.42578125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 275
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 299.0789166657447
+  Wavelet Energy: 114781421.75000003
+  Entropy: 6.555368678239943
+  Histogram RGB Mean: 120.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 276
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1228.353283413064
+  Wavelet Energy: 211201277.25
+  Entropy: 6.684657827345328
+  Histogram RGB Mean: 197.03125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 277
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 300.3112467924174
+  Wavelet Energy: 908527952.5
+  Entropy: 7.0555367381508285
+  Histogram RGB Mean: 196.9375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 278
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 278.01614769279007
+  Wavelet Energy: 186214130.00000003
+  Entropy: 6.601376753129051
+  Histogram RGB Mean: 137.96484375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 279
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2.1295986622073575
+  Wavelet Energy: 553409136.0000001
+  Entropy: 1.6118935460197932
+  Histogram RGB Mean: 196.875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 280
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 768.596842727408
+  Wavelet Energy: 542390310.5
+  Entropy: 6.971401813599148
+  Histogram RGB Mean: 196.58203125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 281
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 346.60240179572884
+  Wavelet Energy: 96752320.00000001
+  Entropy: 6.137839519706914
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 282
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 154.74275609631567
+  Wavelet Energy: 113790465.00000003
+  Entropy: 6.460963744877105
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 283
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 161.19670308569619
+  Wavelet Energy: 1243769783.5000002
+  Entropy: 7.200733625339037
+  Histogram RGB Mean: 197.03125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 284
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 276.8408306457282
+  Wavelet Energy: 216511569.0
+  Entropy: 6.323218453077488
+  Histogram RGB Mean: 122.609375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 285
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 298.40077043484507
+  Wavelet Energy: 1036921313.0
+  Entropy: 6.281708655440626
+  Histogram RGB Mean: 196.76953125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 286
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 296.6065984828556
+  Wavelet Energy: 287876429.50000006
+  Entropy: 6.930660342414833
+  Histogram RGB Mean: 139.453125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 287
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 2016.6575946331382
+  Wavelet Energy: 97968588.75000003
+  Entropy: 7.045506160954604
+  Histogram RGB Mean: 39.0625
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 288
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 273.59113951271246
+  Wavelet Energy: 762522584.0
+  Entropy: 6.129115237072587
+  Histogram RGB Mean: 196.9921875
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 289
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 823.5820035363738
+  Wavelet Energy: 725615227.0
+  Entropy: 6.6440581381505925
+  Histogram RGB Mean: 197.03125
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 290
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 1871.874071977897
+  Wavelet Energy: 533375889.75000006
+  Entropy: 7.40629405362696
+  Histogram RGB Mean: 196.2734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 291
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 444.51899065781123
+  Wavelet Energy: 142463385.75
+  Entropy: 6.542818586059519
+  Histogram RGB Mean: 56.77734375
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 292
+
+Soil Type: Clay Soil
+Extracted Features:
+  GLCM Contrast: 53.61704479802449
+  Wavelet Energy: 1480365177.75
+  Entropy: 2.131207036041525
+  Histogram RGB Mean: 2070.25
+  Soil Type: Clay Soil
+
+Predicted Crop: Asparagus
+____________________________________________________________________________________________________________________________
+
+Inference on image: 293
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 222.30958564963652
+  Wavelet Energy: 1983600016.25
+  Entropy: 3.682654724064306
+  Histogram RGB Mean: 2070.25
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 294
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 96.84509387411528
+  Wavelet Energy: 921271836.0
+  Entropy: 1.7196739390425608
+  Histogram RGB Mean: 2070.25
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 295
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 95.81644349871836
+  Wavelet Energy: 920812600.5
+  Entropy: 1.720547832747262
+  Histogram RGB Mean: 2070.25
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 296
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 246.9446082394934
+  Wavelet Energy: 1786835857.25
+  Entropy: 3.012860902674249
+  Histogram RGB Mean: 2070.25
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
+
+Inference on image: 297
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 263.9446575339924
+  Wavelet Energy: 5324837370.75
+  Entropy: 4.336812319131141
+  Histogram RGB Mean: 2070.25
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 298
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 132.47796549609492
+  Wavelet Energy: 2820937694.5
+  Entropy: 2.594780385985647
+  Histogram RGB Mean: 2070.25
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 299
+
+Soil Type: Red Soil
+Extracted Features:
+  GLCM Contrast: 132.49100763316784
+  Wavelet Energy: 2820508182.5
+  Entropy: 2.5835399880146146
+  Histogram RGB Mean: 2070.25
+  Soil Type: Red Soil
+
+Predicted Crop: Millets
+____________________________________________________________________________________________________________________________
+
+Inference on image: 300
+
+Soil Type: Alluvial Soil
+Extracted Features:
+  GLCM Contrast: 1053.0793062017597
+  Wavelet Energy: 1449145734.0
+  Entropy: 7.606499051505417
+  Histogram RGB Mean: 474.0
+  Soil Type: Alluvial Soil
+
+Predicted Crop: Rice
+____________________________________________________________________________________________________________________________
